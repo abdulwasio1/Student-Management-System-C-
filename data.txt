@@ -1,0 +1,56 @@
+Id : 105
+Name : amir
+Age : 23
+Marks : 23 23 232 32 33 
+Total : 343
+Percentage : 68.6
+Grade : C
+
+Id : 107
+Name : Farhan Faraz
+Age : 19
+Marks : 89 77 90 82 98 
+Total : 436
+Percentage : 87.2
+Grade : A
+
+Id : 104
+Name : nisarasfasfa
+Age : 20
+Marks : 60 70 50 78 62 
+Total : 320
+Percentage : 64
+Grade : C
+
+Id : 103
+Name : Ahmed Shah
+Age : 18
+Marks : 87 67 56 45 45 
+Total : 300
+Percentage : 60
+Grade : C
+
+Id : 102
+Name : Wasioa
+Age : 19
+Marks : 100 100 100 100 99 
+Total : 499
+Percentage : 99.8
+Grade : A
+
+Id : 101
+Name : nisar
+Age : 19
+Marks : 98 67 56 45 34 
+Total : 300
+Percentage : 60
+Grade : C
+
+Id : 103
+Name : Ahmed Shah
+Age : 18
+Marks : 87 67 56 45 45 
+Total : 300
+Percentage : 60
+Grade : C
+
